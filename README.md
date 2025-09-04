@@ -7,6 +7,7 @@ Here you can specify which network to connect to, change the name of the access 
 
 Next, if you want to change the settings, find the IP that your router assigned (for example, 192.168.1.2), if the device cannot connect to the network, the settings page will again be available at 192.168.4.1
 <img src="https://github.com/boy4ik7/esp8266_repeater/blob/main/img/img3.png?raw=true" width="400">
+
 This is the maximum speed under ideal conditions, I recommend using the ESP module with an external antenna for better results.
 <img src="https://github.com/boy4ik7/esp8266_repeater/blob/main/img/img.png?raw=true" width="200">
 
