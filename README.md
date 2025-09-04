@@ -9,6 +9,7 @@ Next, if you want to change the settings, find the IP that your router assigned 
 <img src="https://github.com/boy4ik7/esp8266_repeater/blob/main/img/img3.png?raw=true" width="400">
 
 This is the maximum speed under ideal conditions, I recommend using the ESP module with an external antenna for better results.
+
 <img src="https://github.com/boy4ik7/esp8266_repeater/blob/main/img/img.png?raw=true" width="200">
 
 ## Libraries that were used <a href="https://github.com/boy4ik7/esp8266_repeater/blob/main/platformio.ini">latformio.ini</a>
